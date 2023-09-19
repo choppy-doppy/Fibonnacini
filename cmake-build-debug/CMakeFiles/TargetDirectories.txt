@@ -1,0 +1,3 @@
+C:/Users/chop/Documents/GitHub/Line-That-Spins/cmake-build-debug/CMakeFiles/Line_That_Spins.dir
+C:/Users/chop/Documents/GitHub/Line-That-Spins/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chop/Documents/GitHub/Line-That-Spins/cmake-build-debug/CMakeFiles/rebuild_cache.dir
